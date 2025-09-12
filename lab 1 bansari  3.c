@@ -5,8 +5,9 @@ int main()
     printf ("enter two number");
     scanf("%d,%d" , &a,&b);
     product=a*b;
-    printf("product= %d\n",sum0)
+    printf("product= %d\n",product)
     return 0 ;
 
 }
+
 

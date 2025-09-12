@@ -5,9 +5,10 @@ int main()
     printf ("enter two number");
     scanf("%d,%d" , &a,&b);
     diff=a-b;
-    printf("different= %d\n",sum0)
+    printf("different= %d\n",diff)
     return 0 ;
 
 }
+
 
 
